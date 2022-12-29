@@ -57,7 +57,7 @@ export default [
     name: '山海以南’', // 站点名称
     desc: '不积硅步,无以至千里', // 站点描述
     link: 'https://mu-yan.cn', // 站点地址
-    thumbnail: 'https://cdn.jsdelivr.net/gh/Mu-Yan/Mu-Yan.github.io/001.jpg' // 站点图片链接
+    thumbnail: 'https://mu-yan.cn/001.jpg' // 站点图片链接
   },
   {
     name: '王世庭的博客', // 站点名称
